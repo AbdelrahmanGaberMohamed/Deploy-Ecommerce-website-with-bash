@@ -1,7 +1,8 @@
 #!/bin/bash
-#Script_name: deploy-ecommerce-application.sh
+#Script_name: deploy-e-commerce-application.sh
 #Purpose: Deply E-Commerce application on single node LAMP STACK
 #Author: Abdelrahman Gaber
+#OS: CentOS stream 9
 #Date: 25/05/2024
 #Exit Codes:
 #   0: Success
